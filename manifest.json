@@ -1,0 +1,17 @@
+{
+  "name": "圖片整理工具",
+  "short_name": "圖片整理",
+  "description": "批次壓縮、重新命名圖片的小工具",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FFF8FB",
+  "theme_color": "#E88DAD",
+  "icons": [
+    {
+      "src": "./E618184A-3D1D-488F-B088-F19F9A709356.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
